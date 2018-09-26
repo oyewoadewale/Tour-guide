@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_festival"
+            android:icon="@drawable/ic_casino_black_24dp"
+            android:title="@string/fesivals" />
+        <item
+            android:id="@+id/nav_hotels"
+            android:icon="@drawable/ic_local_hotel_black_24dp"
+            android:title="@string/hotels" />
+        <item
+            android:id="@+id/nav_religious"
+            android:icon="@drawable/ic_account_balance_black_24dp"
+            android:title="@string/religious" />
+        <item
+            android:id="@+id/nav_tourist"
+            android:icon="@drawable/ic_pool_black_24dp"
+            android:title="@string/tourist" />
+    </group>
+
+
+</menu>

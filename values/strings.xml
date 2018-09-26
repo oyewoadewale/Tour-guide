@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">LagosTourGuide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Lagos Tour</string>
+    <string name="nav_header_subtitle">adewalekayode90@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">Experience the beauty of Lagos</string>
+
+
+    <!--Religious Places Pioneer/ presidents strings-->
+    <string name="president_religion_1">President; Rev (Dr) Chris Oyakhilome, This is one of the
+        biggest churches in Nigeria, with its headquarter in Lagos Nigeria</string>
+    <string name="president_religion_2">General Overseer: Pastor EA AdeboyeThis is one of the
+        biggest churches in Nigeria, with its headquarter in Lagos Nigeria</string>
+    <string name="president_religion_3"> General Overseer: Pastor WF KumuyiThis is one of the
+        biggest churches in Nigeria, with its headquarter in Lagos Nigeria</string>
+    <string name="president_religion_4">Senior Pastor; Pastor Sam AdeyemiThis is one of the
+        biggest churches in Nigeria, with its headquarter in Lagos Nigeria</string>
+    <string name="president_religion_5">Senior Pastor; Pastor Poju OyemadeThis is one of the
+        biggest churches in Nigeria, with its headquarter in Lagos Nigeria </string>
+    <string name="president_religion_6">Founder: Bishop David Oyedepo This is one of the
+        biggest churches in Nigeria, with its headquarter in Lagos Nigeria</string>
+
+    <!--Religious Places strings-->
+    <string name="religion_1">Christ Embassy Church</string>
+    <string name="religion_2">Reedemed Church</string>
+    <string name="religion_3">Deeper life</string>
+    <string name="religion_4">Daystar</string>
+    <string name="religion_5">Covenant Christtan Centre </string>
+    <string name="religion_6">Winner Chapel</string>
+
+
+    <!--Tourist attractions strings-->
+    <string name="tourist_1">National Theatre</string>
+    <string name="tourist_2">Nigerian National Museum</string>
+    <string name="tourist_3">The New Afrika Shrine</string>
+    <string name="tourist_4">Hi Impact Planet</string>
+    <string name="tourist_5">Lekki Conservation Centre </string>
+    <string name="tourist_6">Tarkwa Bay Beach</string>
+    <string name="tourist_7">Lekki Leisure Lake</string>
+    <string name="tourist_8">Terra Kulture </string>
+    <string name="tourist_9">Elegushi Beach</string>
+
+
+    <!--Tourist attractions descriptions strings-->
+    <string name="desc_tourist_1">An architectural masterpiece and cultural landmark,
+        the edifice is one of the few properties of the country
+        that has stood the test of time. Being home to everything art,
+        the National Theatre provides an avenue for you to learn a lot more
+        about art while having fun in its lush environment.</string>
+
+    <string name="desc_tourist_2">Representing a country overflowing with diverse cultural heritage,
+        the Nigerian national museum is the perfect expo of Nigerian history.
+        Showcasing works of art dating back to the pre-independence era,
+        the museum tells the story of Nigeria’s journey through
+        years of progressive growth.</string>
+
+    <string name="desc_tourist_3">The New Afrika Shrine is an open-air
+        entertainment centre located in Ikeja, Lagos State.
+        It serves as the host location of the annual Felabration music festival.
+        Currently managed by Femi Kuti and Yeni Anikulapo-Kuti,
+        it is the replacement of the old Afrika Shrine created in 1970 by Fela Kuti until
+        it was burnt down in 1977.</string>
+
+    <string name="desc_tourist_4">Hi-Impact Planet offers world-class fun for the young and old,
+        friends and families. There are games, rides and other entertaining attractions for the
+        young and young at heart. </string>
+
+    <string name="desc_tourist_5">This nature hub is run by the Nigerian conservation foundation
+        (NCF) and If you appreciate the sight of plants and animals in their natural habitat,
+        then this place is a must visit for you. </string>
+
+    <string name="desc_tourist_6">Tarkwa Bay Beach, unlike most public beaches in Lagos,
+        isn’t often noisy or overcrowded. This makes it a great place for some alone time with your
+        significant other or perhaps a fun day out with your friends.</string>
+
+    <string name="desc_tourist_7">At Lekki Leisure Lake you can partake in thrilling
+        adventurous activities like quad biking, jet skiing, zip lining and much more!</string>
+
+    <string name="desc_tourist_8">The internationally acclaimed art house, Terra Kulture is the
+        home of contemporary visual and theatre arts in Nigeria. It stands as one of only 2 art
+        auction houses in Nigeria, with a collection of over a thousand art pieces
+        from across the country.</string>
+
+    <string name="desc_tourist_9">Elegushi Royal Beach is a private beach owned by the Elegushi
+        Royal family, led by HRM Oba Alayeluwa Saheed Ademola Elegushi.
+        It is arguably the most popular beaches in Lagos. </string>
+
+    <string name="desc_tourist_10">Located in Lekki, the Oniru Beach is great for public holiday
+        visits and weekend leisure. You can swim in the Atlantic Ocean
+        and ride horses on the white sand beach.</string>
+
+
+    <!--Hotels strings-->
+    <string name="hotel_1">Sheraton Hotel</string>
+    <string name="hotel_2">Eho Hotel and suites</string>
+    <string name="hotel_3">De Reinessance</string>
+    <string name="hotel_4">K and G</string>
+    <string name="hotel_5">Oriental Hotels</string>
+    <string name="hotel_6">360 Hotels</string>
+    <string name="hotel_7">Air bnb</string>
+    <string name="hotel_8">Sarah Sam</string>
+    <string name="hotel_9">Ibis Hotel</string>
+    <string name="hotel_10">White house</string>
+
+    <!--Hotels Address strings-->
+    <string name="address_hotel_1">Located at; Opebi Road, Ikeja Gra, one of the 5 star hotels in
+        Lagos Nigeria</string>
+    <string name="address_hotel_2">Located at; Victoria Island, one of the 5 star hotels in
+        Lagos Nigeria</string>
+    <string name="address_hotel_3">Located at; Alausa, Ikeja, one of the 5 star hotels in
+        Lagos Nigeria</string>
+    <string name="address_hotel_4">Located at; Oregun, Ikeja, also a nice hotel</string>
+    <string name="address_hotel_5">Located at; Lekki, VI, also a nice hotel</string>
+    <string name="address_hotel_6">Located at; Lekki, Ajah, also a nice hotel</string>
+
+    <string name="address_hotel_7">Located at; Online, you make your bookings for hotels,
+        and any form of accommodation on this platform, although does not have a hotel of its own but
+        they are the best in the business</string>
+    <string name="address_hotel_8">Located at; Ogudu, Ojota, this is also a nice hote</string>
+    <string name="address_hotel_9">Located at; Opebi, Ikeja, this is one of the best hotels
+        in Lagos Nigeria, can't forget their morning buffet, for all guests</string>
+    <string name="address_hotel_10">Located at; Opebi, ikeja, this is also a nice hotel</string>
+
+    <!--Lagos Festivals strings-->
+    <string name="festivals_1">Eyo Festival</string>
+    <string name="festivals_2">Lagos Black Heritage festivals</string>
+    <string name="festivals_3">Lagos International Jazz Festival </string>
+    <string name="festivals_4">Yoruba Arts Festival </string>
+    <string name="festivals_5">Eko International Film Festival  </string>
+    <string name="festivals_6">Boat Regattas l</string>
+    <string name="festivals_7">Lagos Food festival </string>
+
+
+    <!--Lagos Festivals descriptions strings-->
+    <string name="desc_festivals_1">With originsfrom 1750, this festival has masquerades of
+        performers in white robes and dancers. The attraction is held in the Tafawa Belewa Square
+        and has thousands of attendees each year. </string>
+
+    <string name="desc_festivals_2">The Lagos Black Heritage Festival takes place in April.
+        Carnival processions stroll through the street in remembrance of the African slave
+        trade story.</string>
+
+    <string name="desc_festivals_3">also known as Lagos Jazz Fest, is an annual celebration of
+        the music and culture that takes place in Lagos. Held since 2008, the Lagos International
+        Jazz Festival is a three-day event. </string>
+
+    <string name="desc_festivals_4">celebrating the rich, colorful and vibrant Arts and Culture
+        of the Yoruba\'s from around the world. Featuring Cultural performances, Workshops,
+        Arts and crafts, Competitions, African Market, African food and live music from artists
+        and bands dhowcasing the wide variety of popular Yoruba music such as Afrobeats, Juju,
+        Highlife, Apala and Jazz. </string>
+
+    <string name="desc_festivals_5">The mission of Eko International Film Festival is to promote
+        the appreciation of Arts and Culture through the motion picture arts and sciences and
+        increase tourism in Nigeria.  </string>
+
+    <string name="desc_festivals_6">The activities scheduled to spice the cultural festival include,
+        performances by entertainment boats, traditional boat regatta parade, cultural display by
+        various riverine communities, water safety tips as well as other side attractions. </string>
+    <string name="desc_festivals_7">This is an international food and beverage trade fair and events
+        that will showcase products from various local and international food and drink
+        companies and industries </string>
+    <string name="tourist">Tourist</string>
+    <string name="religious">Religious</string>
+    <string name="hotels">Hotels</string>
+    <string name="fesivals">Fesivals</string>
+</resources>
