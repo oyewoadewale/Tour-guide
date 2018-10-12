@@ -17,3 +17,7 @@ WhatI learn't and applied in the project
 5. Navigating between those lists using intents and multiple Activities/ fragment
 6. Creating custom classes.
 7. Properly handling images.
+
+Here is a screen shot from the app
+
+![screenshot_2018-10-12-20-31-45](https://user-images.githubusercontent.com/38193029/46891708-b2ff6900-ce62-11e8-81d7-fc5c954e5d6a.png)
