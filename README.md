@@ -5,7 +5,7 @@ Tour guide app which presents relevant information to a user who’s visiting yo
 
 
 Project Overview
-I will be making your own multi-screen Android app to share your knowledge about a city you are very familiar with. The goal is to create a tour guide app which presents relevant information to a user who’s visiting your city. The app can list top attractions, restaurants, public places, or events for the city. It can contain all the best known secrets that only locals know.
+A multi-screen Android app to share my knowledge about the city of Lagos. The goal is to create a tour guide app which presents relevant information to a user who’s visiting lagos for the first time. The app can list top attractions, restaurants, public places, or events for the city. It can contain all the best known secrets that only locals know.
 
 
 WhatI learn't and applied in the project
@@ -17,6 +17,10 @@ WhatI learn't and applied in the project
 5. Navigating between those lists using intents and multiple Activities/ fragment
 6. Creating custom classes.
 7. Properly handling images.
+
+You can down load the app here; https://drive.google.com/drive/u/0/folders/1QF0JE5M9_BTolwVdT_EX8f_eocqmu6gr
+
+thank you.
 
 Here is a screen shot from the app
 
